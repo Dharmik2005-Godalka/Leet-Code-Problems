@@ -1,26 +1,42 @@
-class Solution {
-public:
-    string interpret(string command) {
-        string answer;
+#include <iostream>
+#include <string>
+using namespace std;
 
-        for(int i=0; i<command.size(); i++)
+string interpret(string command)
+{
+    string answer;
+
+    for(int i = 0; i < command.size(); i++)
+    {
+        if(command[i] == 'G')
         {
-            if(command[i] == 'G')
-            {
-                answer += 'G';
-            }
-
-            else if(command[i] == '(' && command[i+1] == ')')
-            {
-                answer += 'o';
-                i++;
-            }
-            else
-            {
-                answer += "al";
-                i = i+3;
-            }
+            answer += 'G';
         }
-        return answer;
+        else if(command[i] == '(' && command[i + 1] == ')')
+        {
+            answer += 'o';
+            i++;
+        }
+        else
+        {
+            answer += "al";
+            i += 3;
+        }
     }
-};
+
+    return answer;
+}
+
+int main()
+{
+    string command;
+
+    cout << "Enter command: ";
+    cin >> command;
+
+    string result = interpret(command);
+
+    cout << "Answer: " << result << endl;
+
+    return 0;
+}
