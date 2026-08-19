@@ -1,6 +1,9 @@
 # Leet-Code-Problems
 A collection of my solutions to LeetCode problems, organized by topic and difficulty...
 
+#Update:
+This repo is connected with LeetHub — every time I solve a problem on LeetCode, the solution is automatically pushed here.
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
