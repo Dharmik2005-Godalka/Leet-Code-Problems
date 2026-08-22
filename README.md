@@ -48,4 +48,20 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
