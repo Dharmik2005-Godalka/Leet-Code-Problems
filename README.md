@@ -9,10 +9,12 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2235-add-two-integers) |
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## String
@@ -26,6 +28,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
@@ -64,4 +67,16 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
