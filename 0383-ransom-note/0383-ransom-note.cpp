@@ -11,8 +11,7 @@ public:
         for(int j=0; j<ransomNote.size(); j++)
         {
             count[ransomNote[j] - 'a']--;
-
-            if(count[ransomNote[j] - 'a']<0)
+            if(count[ransomNote[j] - 'a'] < 0)
             {
                 return false;
             }
