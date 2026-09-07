@@ -28,6 +28,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0383-ransom-note) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
@@ -105,4 +106,12 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
