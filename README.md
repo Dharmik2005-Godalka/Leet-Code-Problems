@@ -10,6 +10,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2235-add-two-integers) |
 ## Array
@@ -19,6 +20,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1470-shuffle-the-array) |
@@ -34,6 +36,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
@@ -41,16 +44,19 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
 |  |
@@ -114,4 +120,12 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
