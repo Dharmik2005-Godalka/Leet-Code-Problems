@@ -12,6 +12,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2235-add-two-integers) |
 ## Array
 |  |
@@ -37,6 +38,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0844-backspace-string-compare](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
@@ -78,6 +80,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
+| [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
 | ------- |
