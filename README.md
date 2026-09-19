@@ -34,6 +34,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [3537-fill-a-special-grid](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3537-fill-a-special-grid) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [3537-fill-a-special-grid](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3537-fill-a-special-grid) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sorting
 |  |
 | ------- |
@@ -168,20 +170,27 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Matrix
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3537-fill-a-special-grid](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3537-fill-a-special-grid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
