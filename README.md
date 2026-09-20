@@ -28,6 +28,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1470-shuffle-the-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
@@ -64,6 +65,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
@@ -129,6 +131,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
 |  |
 | ------- |
