@@ -36,6 +36,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [3537-fill-a-special-grid](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3537-fill-a-special-grid) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## String
 |  |
@@ -71,6 +72,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -98,6 +100,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -199,4 +202,8 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
