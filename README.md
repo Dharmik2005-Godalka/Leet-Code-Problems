@@ -39,6 +39,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [3719-longest-balanced-subarray-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3745-maximize-expression-of-three-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## String
 |  |
@@ -59,6 +60,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [3537-fill-a-special-grid](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3537-fill-a-special-grid) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sorting
 |  |
@@ -76,6 +78,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3745-maximize-expression-of-three-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -89,6 +92,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +148,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0704-binary-search](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Bit Manipulation
 |  |
 | ------- |
