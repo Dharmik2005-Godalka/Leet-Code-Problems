@@ -36,6 +36,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3537-fill-a-special-grid](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3537-fill-a-special-grid) |
@@ -55,6 +56,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -63,6 +65,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3537-fill-a-special-grid) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -81,6 +84,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -93,12 +97,14 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Quickselect
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Two Pointers
 |  |
@@ -230,4 +236,8 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1408-string-matching-in-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
