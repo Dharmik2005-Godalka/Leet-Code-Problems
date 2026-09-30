@@ -15,6 +15,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2235-add-two-integers) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +125,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3745-maximize-expression-of-three-elements) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Quicksort
 |  |
 | ------- |
