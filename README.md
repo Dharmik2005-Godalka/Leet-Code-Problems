@@ -41,6 +41,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
+| [2706-buy-two-chocolates](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3537-fill-a-special-grid](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3537-fill-a-special-grid) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -91,6 +92,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [2578-split-with-minimum-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2578-split-with-minimum-sum) |
+| [2706-buy-two-chocolates](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3745-maximize-expression-of-three-elements) |
@@ -127,6 +129,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2578-split-with-minimum-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2578-split-with-minimum-sum) |
+| [2706-buy-two-chocolates](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
