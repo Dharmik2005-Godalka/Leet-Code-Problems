@@ -16,6 +16,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2235-add-two-integers) |
 | [2578-split-with-minimum-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2578-split-with-minimum-sum) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2864-maximum-odd-binary-number) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Array
@@ -129,6 +130,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2578-split-with-minimum-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2578-split-with-minimum-sum) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
