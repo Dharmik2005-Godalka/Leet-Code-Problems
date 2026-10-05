@@ -11,6 +11,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [0007-reverse-integer](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0507-perfect-number) |
 | [0932-beautiful-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
