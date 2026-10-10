@@ -15,6 +15,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0507-perfect-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0507-perfect-number) |
 | [0932-beautiful-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2235-add-two-integers) |
@@ -261,4 +262,12 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
