@@ -70,6 +70,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [2864-maximum-odd-binary-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2864-maximum-odd-binary-number) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +103,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [2578-split-with-minimum-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -143,6 +145,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [2706-buy-two-chocolates](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4000-largest-integer-with-given-digit-sum) |
@@ -174,6 +177,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0383-ransom-note](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0383-ransom-note) |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -196,6 +200,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0383-ransom-note](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bubble Sort
 |  |
