@@ -45,6 +45,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1710-maximum-units-on-a-truck](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -98,6 +99,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1710-maximum-units-on-a-truck](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [2578-split-with-minimum-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2578-split-with-minimum-sum) |
@@ -139,6 +141,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2578-split-with-minimum-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -200,6 +203,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0383-ransom-note](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bubble Sort
