@@ -50,6 +50,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2706-buy-two-chocolates) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3537-fill-a-special-grid](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3537-fill-a-special-grid) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -71,6 +72,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [2864-maximum-odd-binary-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2864-maximum-odd-binary-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -147,6 +149,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2864-maximum-odd-binary-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -275,6 +278,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
