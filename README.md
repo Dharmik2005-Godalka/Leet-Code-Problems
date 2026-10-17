@@ -36,6 +36,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0932-beautiful-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0932-beautiful-array) |
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -96,6 +97,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -141,6 +143,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
