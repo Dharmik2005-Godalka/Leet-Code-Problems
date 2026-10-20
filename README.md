@@ -32,6 +32,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0860-lemonade-change) |
 | [0932-beautiful-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0932-beautiful-array) |
@@ -288,6 +289,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
