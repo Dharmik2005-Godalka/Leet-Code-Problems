@@ -11,6 +11,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [0007-reverse-integer](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0507-perfect-number) |
 | [0932-beautiful-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0932-beautiful-array) |
@@ -28,6 +29,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
@@ -277,6 +279,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 ## String Matching
 |  |
@@ -309,4 +312,20 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1025-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
