@@ -11,6 +11,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [0007-reverse-integer](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0507-perfect-number) |
@@ -292,6 +293,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0062-unique-paths) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1137-n-th-tribonacci-number) |
@@ -328,4 +330,8 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0204-count-primes) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
