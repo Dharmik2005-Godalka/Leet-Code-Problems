@@ -75,6 +75,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
 | [1408-string-matching-in-an-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1668-maximum-repeating-substring](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1668-maximum-repeating-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -286,6 +287,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1668-maximum-repeating-substring) |
 ## Radix Sort
 |  |
 | ------- |
@@ -297,6 +299,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0746-min-cost-climbing-stairs](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
