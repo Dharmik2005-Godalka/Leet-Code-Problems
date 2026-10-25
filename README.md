@@ -32,6 +32,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [0204-count-primes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0704-binary-search) |
@@ -205,6 +206,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -296,6 +298,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0062-unique-paths) |
+| [0300-longest-increasing-subsequence](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1137-n-th-tribonacci-number) |
@@ -337,4 +340,8 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0062-unique-paths) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
