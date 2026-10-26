@@ -31,6 +31,7 @@ public:
                 answer++;
             }
         }
+
         return answer;
     }
 };
