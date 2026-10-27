@@ -15,6 +15,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0204-count-primes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0507-perfect-number) |
+| [0670-maximum-swap](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0670-maximum-swap) |
 | [0932-beautiful-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1025-divisor-game) |
@@ -150,6 +151,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
+| [0670-maximum-swap](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0670-maximum-swap) |
 | [0860-lemonade-change](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
