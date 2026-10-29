@@ -36,6 +36,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0300-longest-increasing-subsequence](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -105,6 +106,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0621-task-scheduler) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -128,6 +130,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -153,6 +156,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0402-remove-k-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0670-maximum-swap) |
 | [0860-lemonade-change](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
@@ -200,6 +204,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0621-task-scheduler) |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -226,6 +231,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [0383-ransom-note](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0621-task-scheduler) |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
