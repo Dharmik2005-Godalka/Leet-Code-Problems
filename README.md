@@ -16,6 +16,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0670-maximum-swap) |
+| [0781-rabbits-in-forest](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0781-rabbits-in-forest) |
 | [0932-beautiful-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1025-divisor-game) |
@@ -40,6 +41,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0704-binary-search](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0781-rabbits-in-forest](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0860-lemonade-change) |
 | [0932-beautiful-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0932-beautiful-array) |
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
@@ -158,6 +160,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0670-maximum-swap) |
+| [0781-rabbits-in-forest](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -205,6 +208,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0621-task-scheduler) |
+| [0781-rabbits-in-forest](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0781-rabbits-in-forest) |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
