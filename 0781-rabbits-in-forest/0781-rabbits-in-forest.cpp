@@ -3,12 +3,13 @@ public:
     int numRabbits(vector<int>& answers)
     {
         unordered_map<int, int> mp;
-        int answer = 0;
+        
 
-        for (int i = 0; i < answers.size(); i++)
+        for (int i=0; i < answers.size(); i++)
         {
             mp[answers[i]]++;
         }
+        int answer=0;
         for (auto p : mp)
         {
             int same = p.first + 1;
