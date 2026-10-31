@@ -190,18 +190,22 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
