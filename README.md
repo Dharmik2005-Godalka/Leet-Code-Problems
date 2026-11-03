@@ -236,6 +236,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0401-binary-watch) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Counting Sort
 |  |
@@ -370,4 +371,8 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0402-remove-k-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
