@@ -51,6 +51,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1470-shuffle-the-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -114,6 +115,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -152,6 +154,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -229,6 +232,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0300-longest-increasing-subsequence](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
