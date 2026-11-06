@@ -192,12 +192,14 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
@@ -209,6 +211,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
@@ -259,6 +262,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
