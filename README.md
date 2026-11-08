@@ -197,6 +197,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -218,6 +220,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
