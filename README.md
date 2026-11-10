@@ -194,6 +194,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
@@ -203,6 +204,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
@@ -211,12 +213,14 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0993-cousins-in-binary-tree) |
