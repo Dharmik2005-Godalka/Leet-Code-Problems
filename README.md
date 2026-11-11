@@ -36,6 +36,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0474-ones-and-zeroes) |
 | [0561-array-partition](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0704-binary-search) |
@@ -78,6 +79,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [0383-ransom-note](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0402-remove-k-digits) |
+| [0474-ones-and-zeroes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0474-ones-and-zeroes) |
 | [0844-backspace-string-compare](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
 | [1408-string-matching-in-an-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1408-string-matching-in-an-array) |
@@ -340,6 +342,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [0062-unique-paths](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0062-unique-paths) |
 | [0300-longest-increasing-subsequence](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1137-n-th-tribonacci-number) |
@@ -393,4 +396,12 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0401-binary-watch) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
