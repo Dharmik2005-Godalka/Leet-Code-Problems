@@ -295,6 +295,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0844-backspace-string-compare) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Segment Tree
 |  |
 | ------- |
@@ -349,6 +350,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1035-uncrossed-lines](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1035-uncrossed-lines) |
 | [1137-n-th-tribonacci-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1668-maximum-repeating-substring) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
@@ -410,4 +412,8 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1035-uncrossed-lines) |
+## Queue
+|  |
+| ------- |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
