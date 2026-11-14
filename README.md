@@ -69,6 +69,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3537-fill-a-special-grid](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3537-fill-a-special-grid) |
+| [3599-partition-array-to-minimize-xor](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3599-partition-array-to-minimize-xor) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -258,6 +259,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0401-binary-watch) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3599-partition-array-to-minimize-xor](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3599-partition-array-to-minimize-xor) |
 ## Counting Sort
 |  |
 | ------- |
@@ -307,6 +309,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3599-partition-array-to-minimize-xor](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3599-partition-array-to-minimize-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -352,6 +355,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1668-maximum-repeating-substring](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1668-maximum-repeating-substring) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3599-partition-array-to-minimize-xor](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3599-partition-array-to-minimize-xor) |
 ## Memoization
 |  |
 | ------- |
