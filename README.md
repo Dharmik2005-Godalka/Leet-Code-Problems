@@ -56,6 +56,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1470-shuffle-the-array) |
+| [1528-shuffle-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1528-shuffle-string) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -85,6 +86,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0844-backspace-string-compare](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
 | [1408-string-matching-in-an-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1408-string-matching-in-an-array) |
+| [1528-shuffle-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1668-maximum-repeating-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
