@@ -71,6 +71,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [3074-apple-redistribution-into-boxes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3537-fill-a-special-grid](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3537-fill-a-special-grid) |
 | [3599-partition-array-to-minimize-xor](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3599-partition-array-to-minimize-xor) |
+| [3637-trionic-array-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3637-trionic-array-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
