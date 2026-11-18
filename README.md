@@ -12,6 +12,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0007-reverse-integer](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0507-perfect-number) |
@@ -81,6 +82,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0474-ones-and-zeroes) |
@@ -259,6 +261,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0401-binary-watch) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -299,6 +302,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0844-backspace-string-compare) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Segment Tree
