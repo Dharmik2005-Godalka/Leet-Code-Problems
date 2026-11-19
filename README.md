@@ -30,6 +30,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [2600-k-items-with-the-maximum-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2864-maximum-odd-binary-number) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4000-largest-integer-with-given-digit-sum) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [3745-maximize-expression-of-three-elements](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## String
 |  |
 | ------- |
