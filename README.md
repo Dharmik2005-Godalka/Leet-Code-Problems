@@ -94,6 +94,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1528-shuffle-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1668-maximum-repeating-substring) |
+| [1859-sorting-the-sentence](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -130,6 +131,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1859-sorting-the-sentence](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1859-sorting-the-sentence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -282,6 +284,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1859-sorting-the-sentence) |
 ## Stack
 |  |
 | ------- |
