@@ -91,6 +91,7 @@ This repo is connected with LeetHub — every time I solve a problem on LeetCode
 | [0844-backspace-string-compare](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/0942-di-string-match) |
 | [1408-string-matching-in-an-array](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1408-string-matching-in-an-array) |
+| [1507-reformat-date](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/Dharmik2005-Godalka/Leet-Code-Problems/tree/master/1668-maximum-repeating-substring) |
